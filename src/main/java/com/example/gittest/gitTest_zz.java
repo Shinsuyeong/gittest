@@ -1,4 +1,4 @@
 package com.example.gittest;
 
-public class gitTestzz {
+public class gitTest_zz {
 }
